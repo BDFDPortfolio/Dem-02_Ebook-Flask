@@ -49,7 +49,7 @@ The Project Page enlisted as follows:
 
 ## Project Description:
 
-<img height="27" src="https://img.shields.io/badge/test 3-Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Level 3- Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br/>
 <!-- Description: Here you can add more detail information about this project and describe it in the documentation for more details. -->
 
