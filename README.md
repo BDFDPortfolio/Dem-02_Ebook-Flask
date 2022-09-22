@@ -1,51 +1,57 @@
-<!--
- * @Author: BDFD
- * @Date: 2022-01-12 22:38:38
- * @LastEditTime: 2022-02-23 12:24:43
- * @LastEditors: BDFD
- * @Description:
- * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
--->
-
-Descritpion Template
-This is Project Porfolio
-
-Common Tag: Person Website, Portfolio Website, Personal Project Porfolio, Demo App, Demonstration App, Showcase Website
-
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Project-NAME{Personal Portfolio})[![View My Profile]
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a> Python - Flask Framwork E-book Online Traning
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
+![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/Dem-02_Ebook-Flask.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFDPortfolio/Dem-02_Ebook-Flask?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFDPortfolio/Dem-02_Ebook-Flask?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
 <div align="center">
-    <img src="static/images/demo.png" alt="Logo" width="400" height="300">
+    <img src="images/demo.png" alt="Logo" width="400" height="300">
 </div>
 
-## About This Portfolio/Project Details
+## About This Project Details
 
-About This project and the reference link in this repo are for anyone who is interested in working to enter developer world to produce high quality, working style! Check out follow reference link if you think it is interested.
+About This project and the reference link in this repo are for anyone who is interested in learning flask framework or working toward developer world to produce high quality, working style! Check out follow reference link if you think it is interested.
 
-**Project Link:** [Project-NAME](https://www.project-name.com/project-link)
+**Project Link:** [Python-Flask Framework E-Book Online Training](https://bdfdportfolio.tk/Dem-02_Ebook-Flask/)
 
 ## Project Details
 
 The Project Page enlisted as follows:
 
-- [x] **P1-**
-- [x] **P2-**
-- [x] **P3-**
+- [x] **引言**
+- [x] **P1-关于 Flask**
+  - [x] **P1.1-了解框架**
+  - [x] **P1.2-安装环境**
+- [x] **P2-视图**
+  - [x] **P2.1-从 Hello World 开始**
+  - [x] **P2.2-扩展**
+- [x] **P3-模板**
+  - [x] **P3.1-变量**
+  - [x] **P3.2-过滤器**
+  - [x] **P3.3-Web 表单**
+  - [x] **P3.4-控制语句**
+  - [x] **P3.5-宏、继承、包含**
+  - [x] **P3.6-Flask 的特殊变量和方法**
+- [x] **P4-数据库**
+  - [x] **P4.1-数据库的设置**
+  - [x] **P4.2-数据库的基本操作**
+  - [x] **P4.3-自定义模型类**
+  - [x] **P4.4-数据库迁移**
+  - [x] **P4.5-邮件扩展**
+- [x] **P5-测试与部署**
+  - [x] **P5.1-蓝图**
+  - [x] **P5.2-单元测试**
+  - [x] **P5.3-部署**
+  - [x] **P5.4-RESTful**
+  - [x] **P5.5-性能**
 
 ## Project Description:
 
-<img height="27" src="https://img.shields.io/badge/test 1 -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 2 -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <img height="27" src="https://img.shields.io/badge/test 3-Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br/>
-Description: Here you can add more detail information about this project and describe it in the documentation for more details.
+<!-- Description: Here you can add more detail information about this project and describe it in the documentation for more details. -->
 
 ## Tools Used In This Project
 
@@ -53,14 +59,14 @@ Description: Here you can add more detail information about this project and des
 
 **Libraries:** HTML, CSS, and JavaScript
 
-**Projects:** ABC Project Name  
+**Projects:** Python-Flask Framework E-Book Online Training
 
 **Reference:**  
-Demo: <a href="Youtube Link">Demo Website Link</a>  
-Reference:  
+Demo: <a href="https://bdfdportfolio.tk/Dem-02_Ebook-Flask">Demo Website Link</a>  
+Reference:
 
-- <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
-- <a href="https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9">Orginal Video Source Link</a>
+- <a href="https://github.com/BDFDPortfolio/Dem-02_Ebook-Flask">Orginal Data Source Link</a>
+
   <br>
 
 <div align="center">
