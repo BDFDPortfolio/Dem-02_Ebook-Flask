@@ -14,7 +14,7 @@
 
 About This project and the reference link in this repo are for anyone who is interested in learning flask framework or working toward developer world to produce high quality, working style! Check out follow reference link if you think it is interested.
 
-**Project Link:** [Python-Flask Framework E-Book Online Training](https://bdfdportfolio.tk/Dem-02_Ebook-Flask/)
+**Project Link:** [Python-Flask Framework E-Book Online Training](http://bdfdportfolio.tk/Demo-02_Flask-Ebook/)
 
 ## Project Details
 
@@ -62,10 +62,10 @@ The Project Page enlisted as follows:
 **Projects:** Python-Flask Framework E-Book Online Training
 
 **Reference:**  
-Demo: <a href="https://bdfdportfolio.tk/Dem-02_Ebook-Flask">Demo Website Link</a>  
+Demo: <a href="http://bdfdportfolio.tk/Demo-02_Flask-Ebook/">Demo Website Link</a>  
 Reference:
 
-- <a href="https://github.com/BDFDPortfolio/Dem-02_Ebook-Flask">Orginal Data Source Link</a>
+- <a href="https://github.com/BDFDPortfolio/Demo-02_Flask-Ebook">Orginal Data Source Link</a>
 
   <br>
 
